@@ -2,7 +2,7 @@
 
 .quiz-container {
   font-family: "Anek Malayalam", sans-serif;
-  height: 220vh;
+  /* height: 220vh; */
   width: 100vw;
   color: #11052c;
   display: flex;

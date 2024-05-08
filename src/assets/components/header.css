@@ -1,0 +1,47 @@
+.my-header {
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 0;
+  background-color: #fff6ef;
+  border-radius: 0px 0px 20px 20px;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+
+.logo {
+  height: 65px;
+  margin: 10px;
+}
+
+.logo-name {
+  height: 65px;
+  margin: 10px;
+}
+
+.github {
+  height: 55px;
+  margin: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .my-header {
+    height: 68px;
+  }
+
+  .logo {
+    height: 52px;
+    margin: 10px;
+  }
+
+  .github {
+    height: 52px;
+    margin: 10px;
+  }
+
+  .logo-name {
+    display: none;
+  }
+}

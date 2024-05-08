@@ -57,13 +57,6 @@ We welcome contributions from the community. If you'd like to contribute to this
 ## License
 This project is open-source.
 
-## Contributors
-Thanks to all the wonderful people who have contributed to this project!
-
-<a href="https://github.com/raushan27/satvik_sewa/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=raushan27/satvik_sewa" />
-</a>
-
 
 
 

@@ -2,7 +2,6 @@
 
 .quiz-container {
   font-family: "Anek Malayalam", sans-serif;
-  /* height: 220vh; */
   width: 100vw;
   color: #11052c;
   display: flex;
@@ -13,14 +12,11 @@
 
 .question-container {
   background: #ffffff;
+  width: 80vw;
   border-radius: 4px;
   padding: 30px 60px;
   display: flex;
-  /* align-items: center; */
-  flex-grow: 2;
   margin: 10%;
-  justify-content: flex-start;
-  overflow: auto;
   padding: 5%;
 }
 

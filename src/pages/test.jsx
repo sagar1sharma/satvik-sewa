@@ -98,7 +98,7 @@ function Test() {
       for (var key in symptoms){
         arr.push(symptoms[key])
       }
-      fetch('http://localhost:5000/process_data', {
+      fetch('https://pythonapi-mpqc.onrender.com/process_data', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
